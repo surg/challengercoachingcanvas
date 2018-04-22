@@ -1,4 +1,32 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-icon"
+baseurl = "https://challengercoachingcanvas.online"
+title = "Challenger Coacing Canvas"
+theme = "hugo-universal-theme"
+languageCode = "ru-ru"
+defaultContentLanguage = "ru"
+
+[[menu.main]]
+    name = "Домой"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Путеводитель"
+    url  = "/guide"
+    weight = 2
+
+[[menu.main]]
+    name = "Дополнительно"
+    url  = "/materials"
+    weight = 3
+
+[[menu.main]]
+    name = "О нас"
+    url  = "/about"
+    weight = 4
+
+[params]
+    copyright = "Creative Commons Attribution 4.0 International license"
+    logo = "none"
+
+[params.carousel]
+    enable = true
