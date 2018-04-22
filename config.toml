@@ -1,4 +1,4 @@
-baseurl = "https://challengercoachingcanvas.online/"
+baseurl = "/"
 title = "Challenger Coacing Canvas"
 theme = "hugo-universal-theme"
 languageCode = "ru-ru"
