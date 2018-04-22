@@ -11,7 +11,7 @@ date: 2018-04-22T19:04:42+03:00
 * Лина Шишкина - lina.shishkina@gmail.com
 * Женя Тылин - tordlinf@gmail.com
 * Аня Бондарчук - storogechka@gmail.com
-* Юля Свицун - svistun.yulia@gmail.com
+* Юля Свистун - svistun.yulia@gmail.com
 * Роман Мазур -mazur.roman@gmail.com
 * Сергей Димитров - serhij.dymytrov@gmail.com
 * Женя Вершинин - jen.versh@gmail.com (yvershynin@softjourn.com)
