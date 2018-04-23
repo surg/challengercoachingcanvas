@@ -3,6 +3,7 @@ title = "Challenger Coacing Canvas"
 theme = "hugo-universal-theme"
 languageCode = "ru-ru"
 defaultContentLanguage = "ru"
+googleAnalytics = "UA-1385956-25"
 
 [[menu.main]]
     name = "Домой"
