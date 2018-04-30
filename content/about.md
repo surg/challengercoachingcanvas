@@ -1,9 +1,9 @@
 ---
 title: "О нас"
 date: 2018-04-22T19:04:42+03:00
+id: img-left
+img: ../img/team-2.jpg
 ---
-
-![Команда](../img/team.png)
 
 Команда единомышленников, в рамках [Agile retreat by ScrumGuides](https://retreat.scrumguides.com) создала этот продукт для коучинговых сессий и самокоучинга челленджеров.
 
