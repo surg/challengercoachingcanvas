@@ -16,11 +16,6 @@ googleAnalytics = "UA-1385956-25"
     weight = 2
 
 [[menu.main]]
-    name = "Дополнительно"
-    url  = "/materials"
-    weight = 3
-
-[[menu.main]]
     name = "Задайте вопрос"
     url  = "/contact"
     weight = 3
@@ -30,10 +25,16 @@ googleAnalytics = "UA-1385956-25"
     url  = "/about"
     weight = 4
 
+[[menu.main]]
+    name = "Лисьи истории"
+    url  = "/blog"
+    weight = 5
+
 [params]
     copyright = "Creative Commons Attribution 4.0 International license"
     logo = "none"
     email = "integral-foxes@googlegroups.com"
+    date_format = "January 2, 2006"
 
 
 [params.carousel]
