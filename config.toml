@@ -21,6 +21,11 @@ googleAnalytics = "UA-1385956-25"
     weight = 3
 
 [[menu.main]]
+    name = "Задайте вопрос"
+    url  = "/contact"
+    weight = 3
+
+[[menu.main]]
     name = "О нас"
     url  = "/about"
     weight = 4
@@ -28,6 +33,8 @@ googleAnalytics = "UA-1385956-25"
 [params]
     copyright = "Creative Commons Attribution 4.0 International license"
     logo = "none"
+    email = "integral-foxes@googlegroups.com"
+
 
 [params.carousel]
     enable = true
