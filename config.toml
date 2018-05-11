@@ -31,7 +31,7 @@ googleAnalytics = "UA-1385956-25"
     weight = 5
 
 [params]
-    copyright = "Creative Commons Attribution 4.0 International license"
+    copyright = "&nbsp;&nbsp;challengercoachingcanvas.online"
     logo = "none"
     email = "integral-foxes@googlegroups.com"
     date_format = "January 2, 2006"
