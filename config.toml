@@ -6,7 +6,7 @@ defaultContentLanguage = "ru"
 googleAnalytics = "UA-121702603-2"
 
 [[menu.main]]
-    name = "Домой"
+    name = "Главная"
     url  = "/"
     weight = 1
 
