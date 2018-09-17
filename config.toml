@@ -16,7 +16,7 @@ googleAnalytics = "UA-121702603-2"
     weight = 2
 
 [[menu.main]]
-    name = "Задайте вопрос"
+    name = "Обратная связь"
     url  = "/contact"
     weight = 3
 
